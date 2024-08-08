@@ -8,10 +8,7 @@ $email_adm = 'autocenterscar@gmail.com';
 $rodape_relatorios = "Desenvolvido por Código Quatro - Soluções";
 
 //VARIAVEIS DO BANCO DE DADOS LOCAL
-$servidor = '108.167.151.55';
-$usuario = 'codig267_oficina';
-$senha = 'Alves1974#';
-$banco = 'codig267_oficina';
+
 
 //VARIAVEIS DO BANCO DE DADOS LOCAL
 /*$servidor = 'localhost';
