@@ -1,0 +1,120 @@
+[05-May-2024 10:36:23 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:36:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:36:31 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:36:46 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:20 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:21 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:22 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:24 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:28 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:30 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:30 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:30 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:37:56 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:38:15 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[05-May-2024 10:38:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nivel_min' in 'where clause' in /home2/codig267/public_html/oficina/painel-adm/estoque.php:38
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque.php(38): PDO->query('SELECT * FROM p...')
+#1 /home2/codig267/public_html/oficina/painel-adm/index.php(302): include_once('/home2/codig267...')
+#2 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque.php on line 38
+[07-May-2024 18:20:17 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[07-May-2024 18:20:17 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 401
+[10-May-2024 08:45:28 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[10-May-2024 08:45:28 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 397
+[10-May-2024 14:44:09 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[10-May-2024 14:44:09 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 397
+[15-May-2024 19:00:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[15-May-2024 19:00:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[16-May-2024 07:03:38 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[16-May-2024 07:03:38 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[17-May-2024 07:51:37 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[17-May-2024 07:51:37 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[17-May-2024 07:59:30 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[17-May-2024 07:59:30 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[22-May-2024 06:35:47 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[22-May-2024 06:35:47 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[12-Jun-2024 18:36:51 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[12-Jun-2024 18:36:51 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[12-Jun-2024 18:36:53 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[12-Jun-2024 18:36:53 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[18-Jul-2024 11:02:50 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[18-Jul-2024 11:02:50 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398
+[18-Jul-2024 11:02:50 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 10
+[18-Jul-2024 11:02:50 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-adm/index.php on line 398

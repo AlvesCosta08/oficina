@@ -1,0 +1,104 @@
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:50 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:51 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:24:52 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined variable $id_conta in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 53
+[11-May-2024 11:25:55 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_conta' cannot be null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:57
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 57
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Warning:  Undefined variable $id_conta in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 53
+[11-May-2024 11:25:58 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_conta' cannot be null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:57
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 57
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Warning:  Undefined variable $id_conta in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 53
+[11-May-2024 11:26:06 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_conta' cannot be null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:57
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 57
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 15
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Warning:  Undefined variable $id_conta in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 53
+[11-May-2024 11:26:48 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_conta' cannot be null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:57
+Stack trace:
+#0 /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 57
+[11-May-2024 11:37:00 America/Fortaleza] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:37:00 America/Fortaleza] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:37:00 America/Fortaleza] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:37:00 America/Fortaleza] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:37:00 America/Fortaleza] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:37:00 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 13
+[11-May-2024 11:37:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 13
+[11-May-2024 11:37:03 America/Fortaleza] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 5
+[11-May-2024 11:37:03 America/Fortaleza] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 6
+[11-May-2024 11:37:03 America/Fortaleza] PHP Warning:  Undefined array key "valor_venda" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 7
+[11-May-2024 11:37:03 America/Fortaleza] PHP Warning:  Undefined array key "quantidade" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 8
+[11-May-2024 11:37:03 America/Fortaleza] PHP Warning:  Undefined array key "txtid2" in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 9
+[11-May-2024 11:37:03 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 13
+[11-May-2024 11:37:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 13
+[13-May-2024 22:23:47 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/painel-adm/estoque/inserir.php on line 12

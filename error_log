@@ -1,0 +1,38 @@
+[05-May-2024 08:47:32 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/oficina/index.php on line 5
+[05-May-2024 08:47:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/oficina/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/index.php on line 5
+[15-May-2024 20:21:28 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in /home2/codig267/public_html/oficina/autenticar.php on line 5
+[15-May-2024 20:21:28 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home2/codig267/public_html/oficina/autenticar.php on line 6
+[01-Jun-2024 06:06:04 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/oficina/conexao.php on line 7
+[01-Jun-2024 06:06:04 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/oficina/conexao.php on line 7
+[01-Jun-2024 06:06:04 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/oficina/conexao.php on line 7
+[01-Jun-2024 06:06:04 America/Sao_Paulo] PHP Warning:  Undefined variable $senha in /home2/codig267/public_html/oficina/conexao.php on line 7
+[01-Jun-2024 06:06:04 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/oficina/index.php on line 5
+[01-Jun-2024 06:06:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/oficina/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/index.php on line 5
+[05-Jun-2024 07:26:05 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 07:26:05 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 07:26:05 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 07:26:05 America/Sao_Paulo] PHP Warning:  Undefined variable $senha in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 07:26:05 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/oficina/index.php on line 5
+[05-Jun-2024 07:26:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/oficina/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/index.php on line 5
+[05-Jun-2024 19:09:24 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 19:09:24 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 19:09:24 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 19:09:24 America/Sao_Paulo] PHP Warning:  Undefined variable $senha in /home2/codig267/public_html/oficina/conexao.php on line 7
+[05-Jun-2024 19:09:24 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/oficina/index.php on line 5
+[05-Jun-2024 19:09:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/oficina/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/index.php on line 5
+[12-Jun-2024 18:36:14 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in /home2/codig267/public_html/oficina/autenticar.php on line 5
+[12-Jun-2024 18:36:14 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home2/codig267/public_html/oficina/autenticar.php on line 6
+[18-Jul-2024 11:02:19 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in /home2/codig267/public_html/oficina/autenticar.php on line 5
+[18-Jul-2024 11:02:19 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home2/codig267/public_html/oficina/autenticar.php on line 6

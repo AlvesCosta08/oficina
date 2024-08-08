@@ -1,0 +1,1057 @@
+[05-May-2024 08:52:41 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_vendas_html.php on line 285
+[05-May-2024 08:53:48 America/Sao_Paulo] PHP Warning:  Undefined variable $entradasF in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 309
+[05-May-2024 08:53:48 America/Sao_Paulo] PHP Warning:  Undefined variable $saidasF in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 312
+[05-May-2024 08:53:48 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 316
+[05-May-2024 10:06:47 America/Sao_Paulo] PHP Warning:  Undefined variable $logo_rel in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 173
+[05-May-2024 10:06:53 America/Sao_Paulo] PHP Warning:  Undefined variable $logo_rel in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 173
+[05-May-2024 10:07:39 America/Sao_Paulo] PHP Warning:  Undefined variable $logo_rel in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 174
+[05-May-2024 10:07:44 America/Sao_Paulo] PHP Warning:  Undefined variable $logo_rel in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 174
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 07:59:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 08:05:45 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_ult_serv_html.php on line 36
+[07-May-2024 08:05:45 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_ult_serv_html.php on line 36
+[07-May-2024 09:13:23 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 09:13:23 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 09:17:32 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327
+[07-May-2024 17:30:14 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:30:14 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:33:52 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:33:52 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:36:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:36:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:36:19 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:36:19 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:36:23 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:36:23 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:38:32 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:38:32 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:38:37 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 17:38:37 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 18:33:31 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[07-May-2024 18:33:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[07-May-2024 18:33:31 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[07-May-2024 18:33:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[07-May-2024 18:50:45 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 18:50:45 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 18:54:44 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 18:54:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:22 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 218
+[07-May-2024 18:55:41 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[07-May-2024 18:55:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[07-May-2024 18:55:41 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[07-May-2024 18:55:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[07-May-2024 21:40:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_os_veiculo_html.php on line 333
+[07-May-2024 21:40:06 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_os_veiculo_html.php on line 333
+[07-May-2024 21:43:07 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_os_veiculo_html.php on line 333
+[07-May-2024 21:43:07 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_os_veiculo_html.php on line 333
+[07-May-2024 21:43:07 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_os_veiculo_html.php on line 333
+[07-May-2024 21:43:07 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_os_veiculo_html.php on line 333
+[09-May-2024 08:50:16 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 08:50:16 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 08:52:29 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327
+[09-May-2024 08:52:45 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 08:52:45 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 08:52:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 08:52:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 11:12:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 11:12:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 11:12:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 11:12:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 11:13:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 11:13:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 22:43:34 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 22:43:34 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 22:43:34 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 22:43:34 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 22:43:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 22:43:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 23:24:38 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 23:24:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 23:24:38 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 23:24:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 23:24:56 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 23:24:56 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 23:28:57 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 23:28:57 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[09-May-2024 23:28:57 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 23:28:57 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[09-May-2024 23:29:29 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[09-May-2024 23:29:29 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[12-May-2024 10:59:29 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 10:59:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:259
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 10:59:32 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 10:59:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:259
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 11:00:19 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 11:00:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:259
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 11:01:39 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 11:01:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:259
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 259
+[12-May-2024 11:04:36 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 11:04:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:04:10 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:04:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:06:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[12-May-2024 15:06:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[12-May-2024 15:06:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[12-May-2024 15:06:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[12-May-2024 15:06:33 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[12-May-2024 15:06:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[12-May-2024 15:06:42 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327
+[12-May-2024 15:07:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[12-May-2024 15:07:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[12-May-2024 15:07:48 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:07:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:09:06 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:09:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:10:27 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:10:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:44:38 America/Sao_Paulo] PHP Warning:  Undefined variable $query_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[12-May-2024 15:44:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[12-May-2024 15:44:51 America/Sao_Paulo] PHP Warning:  Undefined variable $query_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[12-May-2024 15:44:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[12-May-2024 15:45:53 America/Sao_Paulo] PHP Warning:  Undefined variable $query_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:45:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:45:57 America/Sao_Paulo] PHP Warning:  Undefined variable $query_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:45:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[12-May-2024 15:46:07 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[12-May-2024 15:46:07 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[12-May-2024 15:46:07 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[12-May-2024 15:46:07 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[12-May-2024 15:52:55 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:52:55 America/Sao_Paulo] PHP Warning:  Undefined variable $valor_compra in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[12-May-2024 15:52:55 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:52:55 America/Sao_Paulo] PHP Warning:  Undefined variable $valor_compra in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[12-May-2024 15:52:55 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:52:55 America/Sao_Paulo] PHP Warning:  Undefined variable $valor_compra in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[12-May-2024 15:56:27 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:56:27 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:56:27 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:59:16 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:59:16 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[12-May-2024 15:59:16 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[13-May-2024 13:24:29 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[13-May-2024 13:24:29 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[13-May-2024 13:25:24 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[13-May-2024 13:25:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[13-May-2024 13:25:24 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[13-May-2024 13:25:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[13-May-2024 13:25:24 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[13-May-2024 13:25:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[13-May-2024 16:50:22 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_ult_serv_html.php on line 36
+[13-May-2024 16:50:22 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_ult_serv_html.php on line 36
+[13-May-2024 20:19:15 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[13-May-2024 20:19:15 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[13-May-2024 20:19:15 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[13-May-2024 22:26:09 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[13-May-2024 22:26:09 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 238
+[13-May-2024 22:40:11 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_ult_serv_html.php on line 36
+[13-May-2024 22:40:11 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_ult_serv_html.php on line 36
+[14-May-2024 05:11:18 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:11:18 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:11:32 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:11:32 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:11:41 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:11:41 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:12:09 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:12:09 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:12:18 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:12:18 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:18:53 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:18:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:19:45 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:19:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:20:06 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:20:06 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:20:34 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:20:34 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:20:39 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 9
+[14-May-2024 05:20:39 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by data asc, id asc' at line 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:232
+Stack trace:
+#0 /home2/codig267/public_html/oficina/rel/rel_compras_html.php(232): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 232
+[14-May-2024 05:22:03 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:22:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:23:15 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:23:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:23:48 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:23:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[14-May-2024 05:24:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[14-May-2024 05:24:15 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[14-May-2024 05:24:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[14-May-2024 05:24:15 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[14-May-2024 05:24:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[14-May-2024 05:24:15 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[14-May-2024 05:24:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[14-May-2024 05:24:24 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:24:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:25:30 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:25:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:26:22 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:26:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:26:27 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 05:26:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:46:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:47:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:48:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:50:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:52:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 07:54:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 281
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:57:23 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:58:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $vr_unitario in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 278
+[14-May-2024 07:59:16 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 279
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:01:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:02:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:03:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:20 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:07:25 America/Sao_Paulo] PHP Warning:  Undefined variable $nome_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 280
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:09:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:12:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:15:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:28 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:20:28 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Undefined variable $res_forc in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:20:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 264
+[14-May-2024 08:24:07 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:24:07 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:24:07 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:24:07 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:25:33 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:25:33 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 08:26:57 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:26:57 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 08:28:47 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:28:47 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:28:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:28:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Undefined variable $res_prod in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Undefined array key 1 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Undefined array key 2 in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:37:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:41:46 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:41:46 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:41:46 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:41:46 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:41:51 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:41:51 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:41:51 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:41:51 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:42:58 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:42:58 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:42:58 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:42:58 America/Sao_Paulo] PHP Warning:  Undefined array key "valor_compra" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 243
+[14-May-2024 08:45:04 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:53:51 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:53:55 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:54:02 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:54:19 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:54:28 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:56:51 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:56:51 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 08:57:03 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:57:03 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 08:59:17 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 08:59:17 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 09:00:05 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:00:05 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 09:07:29 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:07:29 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 298
+[14-May-2024 09:08:19 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:08:19 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 299
+[14-May-2024 09:09:45 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:09:45 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 299
+[14-May-2024 09:11:38 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:11:38 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 09:13:18 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:13:18 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 09:18:55 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:19:50 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:19:58 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:20:19 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:23:52 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:23:52 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 299
+[14-May-2024 09:45:47 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:45:47 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 299
+[14-May-2024 09:46:06 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:46:06 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 299
+[14-May-2024 09:46:10 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 09:46:10 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 299
+[14-May-2024 16:28:18 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 237
+[14-May-2024 16:28:18 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 301
+[14-May-2024 16:29:23 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 237
+[14-May-2024 16:29:23 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 301
+[14-May-2024 16:31:39 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 237
+[14-May-2024 16:31:39 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 301
+[14-May-2024 16:34:06 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:34:06 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:34:43 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:34:43 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:35:33 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:35:33 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 196
+[14-May-2024 16:35:33 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:36:10 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:36:10 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 196
+[14-May-2024 16:36:10 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:39:26 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:39:26 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 196
+[14-May-2024 16:39:26 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:47:21 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:47:21 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 196
+[14-May-2024 16:47:21 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:49:03 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:49:03 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 196
+[14-May-2024 16:49:03 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:50:33 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 16:50:33 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 196
+[14-May-2024 16:50:33 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 25
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 26
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 30
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 30
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 206
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 16:54:56 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 310
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 25
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 26
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 30
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 30
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 206
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 16:57:54 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 310
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 25
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 26
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 30
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 30
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 206
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 246
+[14-May-2024 17:07:33 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 310
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 23
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 24
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 28
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 28
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 204
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 244
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 244
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 244
+[14-May-2024 17:09:44 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 308
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 23
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 24
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 28
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 28
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 204
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 244
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 244
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 244
+[14-May-2024 17:10:34 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 308
+[14-May-2024 17:13:45 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:13:45 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:14:52 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:14:52 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:21:16 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:21:16 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:23:37 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:23:37 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:25:50 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 10
+[14-May-2024 17:25:50 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 11
+[14-May-2024 17:25:50 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 17:25:50 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:25:50 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:26:52 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 17:26:52 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:26:52 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:28:39 America/Sao_Paulo] PHP Warning:  Undefined array key "fornecedor" in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 12
+[14-May-2024 17:28:39 America/Sao_Paulo] PHP Warning:  Undefined variable $env_fornecedor in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 236
+[14-May-2024 17:28:39 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 300
+[14-May-2024 17:32:33 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:32:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:33:52 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:33:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:34:13 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:34:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:34:21 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:34:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:35:16 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:35:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:35:43 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:35:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:36:28 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327
+[14-May-2024 17:40:45 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:40:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:41:39 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:41:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:42:08 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:42:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:258
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 258
+[14-May-2024 17:43:12 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:43:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:44:36 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:44:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:45:00 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:45:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:50:26 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:50:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[14-May-2024 17:51:43 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[14-May-2024 17:51:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:256
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[14-May-2024 17:52:10 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[14-May-2024 17:52:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:256
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[14-May-2024 17:53:53 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327
+[14-May-2024 17:54:52 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[14-May-2024 17:54:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:256
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:42:42 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:42 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[15-May-2024 03:42:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[15-May-2024 03:42:42 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:50 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:50 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:50 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[15-May-2024 03:42:50 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[15-May-2024 03:42:50 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:42:50 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:43:24 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 03:43:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 03:43:33 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:43:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:256
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:43:47 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_vendas_html.php on line 247
+[15-May-2024 03:43:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_vendas_html.php on line 247
+[15-May-2024 03:43:47 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_vendas_html.php on line 247
+[15-May-2024 03:43:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_vendas_html.php on line 247
+[15-May-2024 03:44:11 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:44:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:256
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:45:35 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:45:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:256
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 256
+[15-May-2024 03:47:51 America/Sao_Paulo] PHP Warning:  Undefined variable $html in /home2/codig267/public_html/oficina/rel/rel_compras.php on line 12
+[15-May-2024 03:52:27 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[15-May-2024 03:52:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[15-May-2024 03:53:07 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[15-May-2024 03:53:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[15-May-2024 03:53:12 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[15-May-2024 03:53:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 257
+[15-May-2024 03:53:25 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:53:25 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:53:25 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[15-May-2024 03:53:25 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 299
+[15-May-2024 03:53:25 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:53:25 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[15-May-2024 03:57:13 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 03:57:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:260
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:02:58 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:02:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:260
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:09:27 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:09:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:260
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:11:37 America/Sao_Paulo] PHP Warning:  Undefined variable $query_fornecedore in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:11:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home2/codig267/public_html/oficina/rel/rel_compras_html.php:260
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 260
+[15-May-2024 04:33:14 America/Sao_Paulo] PHP Warning:  Undefined variable $html in /home2/codig267/public_html/oficina/rel/rel_compras.php on line 11
+[15-May-2024 08:34:56 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 291
+[15-May-2024 16:49:41 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 16:49:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 17:41:50 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 291
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 17:49:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 20:21:49 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 20:21:49 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 20:21:49 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 20:21:49 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 20:23:24 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 20:23:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 20:23:24 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 20:23:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:05:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 277
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:09:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 289
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:10:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:10:36 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327
+[15-May-2024 22:13:17 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 22:13:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 22:13:17 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 22:13:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 268
+[15-May-2024 22:15:08 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[15-May-2024 22:15:08 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:08 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[15-May-2024 22:15:08 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:15 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[15-May-2024 22:15:15 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:15 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[15-May-2024 22:15:15 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:15:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:18:45 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[15-May-2024 22:18:45 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:18:45 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:18:45 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[15-May-2024 22:18:45 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:18:45 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[15-May-2024 22:23:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:27:06 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:37:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 11:42:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 12:09:34 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 217
+[16-May-2024 12:09:34 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 217
+[16-May-2024 12:12:36 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[16-May-2024 12:12:36 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 303
+[16-May-2024 12:14:21 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[16-May-2024 12:14:21 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[16-May-2024 12:14:21 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[16-May-2024 12:14:40 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 217
+[16-May-2024 12:14:40 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 217
+[16-May-2024 17:27:55 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 17:27:55 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 17:27:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 17:27:55 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 17:27:55 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 17:27:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 17:28:17 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 304
+[16-May-2024 17:28:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_orcamentos_html.php on line 304
+[16-May-2024 17:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 291
+[16-May-2024 17:28:44 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/oficina/rel/rel_compras_html.php on line 291
+[16-May-2024 17:28:53 America/Sao_Paulo] PHP Warning:  Undefined array key "obs" in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 253
+[16-May-2024 17:28:53 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[16-May-2024 17:28:53 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_receber_html.php on line 269
+[16-May-2024 17:29:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 216
+[16-May-2024 17:29:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_veiculos_html.php on line 216
+[16-May-2024 17:30:10 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 17:30:10 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 17:30:10 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 17:30:10 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 17:30:10 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 17:30:10 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 17:50:14 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 17:50:14 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 17:50:14 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 17:50:14 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 17:50:14 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 17:50:14 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 272
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 273
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 276
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 278
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 283
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 284
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined variable $mecanico in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 288
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[16-May-2024 18:02:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/oficina/rel/rel_servicos_html.php on line 290
+[18-Jul-2024 11:04:21 America/Sao_Paulo] PHP Warning:  Undefined variable $cor_saldo in /home2/codig267/public_html/oficina/rel/rel_mov_html.php on line 327

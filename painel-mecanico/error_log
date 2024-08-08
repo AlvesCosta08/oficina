@@ -1,0 +1,31 @@
+[05-May-2024 10:47:43 America/Sao_Paulo] PHP Warning:  Undefined variable $veiculo2 in /home2/codig267/public_html/oficina/painel-mecanico/comissoes.php on line 464
+[05-May-2024 10:47:43 America/Sao_Paulo] PHP Warning:  Undefined variable $cliente2 in /home2/codig267/public_html/oficina/painel-mecanico/comissoes.php on line 465
+[05-May-2024 10:48:08 America/Sao_Paulo] PHP Warning:  Undefined variable $veiculo2 in /home2/codig267/public_html/oficina/painel-mecanico/comissoes.php on line 464
+[05-May-2024 10:48:08 America/Sao_Paulo] PHP Warning:  Undefined variable $cliente2 in /home2/codig267/public_html/oficina/painel-mecanico/comissoes.php on line 465
+[05-May-2024 10:49:00 America/Sao_Paulo] PHP Warning:  Undefined variable $veiculo2 in /home2/codig267/public_html/oficina/painel-mecanico/comissoes.php on line 464
+[05-May-2024 10:49:00 America/Sao_Paulo] PHP Warning:  Undefined variable $cliente2 in /home2/codig267/public_html/oficina/painel-mecanico/comissoes.php on line 465
+[09-May-2024 11:06:18 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[09-May-2024 11:06:18 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[16-May-2024 07:03:15 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[16-May-2024 07:03:15 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[16-May-2024 07:03:24 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[16-May-2024 07:03:24 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[16-May-2024 07:03:34 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[16-May-2024 07:03:34 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[17-May-2024 06:17:29 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[17-May-2024 06:17:29 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[17-May-2024 07:51:25 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[17-May-2024 07:51:25 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:51:33 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[17-May-2024 07:51:33 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[17-May-2024 07:51:50 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:51:55 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:51:56 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:51:57 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:51:58 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:52:01 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[17-May-2024 07:52:03 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 46 in /home2/codig267/public_html/oficina/painel-mecanico/orcamentos.php on line 926
+[28-May-2024 13:50:37 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[28-May-2024 13:50:37 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
+[28-May-2024 16:53:05 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 8
+[28-May-2024 16:53:05 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/oficina/painel-mecanico/index.php on line 273
