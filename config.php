@@ -1,10 +1,10 @@
 <?php 
 
 $nome_oficina = "Scar Auto Center";
-$url = "https://codigoquatro.com.br/oficina/";
+$url = "https://seudominio.com.br/oficina/";
 $endereco_oficina = "Rodovia CE 453 , 3862,Tapera - Aquiraz CE";
 $telefone_oficina = "(85)99113-2009";
-$email_adm = 'autocenterscar@gmail.com';
+$email_adm = '';
 $rodape_relatorios = "Desenvolvido por Código Quatro - Soluções";
 
 //VARIAVEIS DO BANCO DE DADOS LOCAL
